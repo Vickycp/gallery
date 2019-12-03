@@ -1,0 +1,82 @@
+
+section{
+ margin-top: 40px;
+}
+.iimage{
+    width:400px ;
+    height: 250px;
+}
+.dis1{
+
+    width:1330px;
+    height: 276px;
+    background-color: burlywood;
+    margin-bottom: 10px;
+
+}
+.forms{
+    margin-left:450px;
+}
+.submit{
+
+    background-image: url(images/he2.png);
+    width: 29px;
+    background-repeat: no-repeat;
+    height: 27px;
+    background-color: transparent;
+    border: none;
+
+}
+.delete{
+    background-image: url(images/de4.png);
+    width: 24px;
+    height: 24px;
+
+}
+.b1{
+
+    background-color: silver;
+    width: 400px;
+    height: 50px;
+    
+
+}
+.b2{
+
+
+    width: 23px;
+    height: 22px;
+    margin-left: 60px;
+
+}
+.rr{
+    width: 24px;
+    height: 24px;
+    margin-top: -27px;
+    margin-left: 158px;
+}
+
+
+.submit:hover{
+    background-color: paleturquoise;
+    color: blue;
+    height: 22px;
+    width: 25px;
+
+}
+
+.iimage:hover{
+    background-color: transparent;
+}
+.
+.video1{
+    width: 300px;
+     height: 250px;
+     padding: 0;
+     margin-top: 75px;
+     margin-left:-102px;
+ }
+ .video2{
+ 
+ }
+ 
